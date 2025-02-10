@@ -1,4 +1,4 @@
-# Yoytobe-mini-android
+# Youtube-mini-android
 Youtube for Android Lollipop
 
 ![001](https://github.com/user-attachments/assets/6aa9385e-e1ca-44ba-bb6e-3fbf3deb85e1)
